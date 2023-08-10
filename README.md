@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://iam-sourabh.vercel.app/**
 
-- 📄 Know about my experiences [https://iam-sourabh.vercel.app/](https://iam-sourabh.vercel.app/)
+- 📄 Know about my experiences [Click here](https://iam-sourabh.vercel.app/#exprience)
 
 - ⚡ Fun fact **A Wanderlust Traveller**
 
