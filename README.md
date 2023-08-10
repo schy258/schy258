@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourabh Kumar</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🔭 I’m currently working on **BigBlueButtonhttps://bbb.demo.bangalore2.com/**
+- 🔭 I’m currently working on **Next.js ( React.js based Framework )**
 
 - 🌱 I’m currently learning **Backend Frameworks With Database**
 
