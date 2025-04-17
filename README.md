@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sourabh Kumar</h1>
 <h3 align="center">A passionate Frontend Developer.</h3>
 
-- 🔭 I’m currently working on **Next.js ( React.js based Framework )**
+- 🔭 I’m currently working on ** Django & React.js **
 
-- 🌱 I’m currently learning **Backend Frameworks With Database**
+- 🌱 I’m currently learning **Modern Backend Frameworks With Database**
 
-- 👨‍💻 All of my projects are available at [https://iam-sourabh.vercel.app/](https://iam-sourabh.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://iam-sourabh.vercel.app/](https://devsourabh.vercel.app/)]
 
-- 💬 Ask me about **React.js Next.js Javascript & Jquery**
+- 💬 Ask me about **React.js Next.js Javascript Jquery Django & Python**
 
-- 📫 How to reach me **https://iam-sourabh.vercel.app/**
+- 📫 How to reach me **[https://iam-sourabh.vercel.app/](https://devsourabh.vercel.app/)**
 
-- 📄 Know about my experiences [Click here](https://iam-sourabh.vercel.app/#exprience)
+- 📄 Know about my experiences [Click here](https://devsourabh.vercel.app/)
 
-- ⚡ Fun fact **A Wanderlust Traveller**
+- ⚡ Fun fact **A Wanderlust Traveller** [Click here](https://small-travelling-bag.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
