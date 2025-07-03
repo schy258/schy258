@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Modern Backend Frameworks With Database**
 
-- 👨‍💻 All of my projects are available at [[https://iam-sourabh.vercel.app/](https://devsourabh.vercel.app/)]
+- 👨‍💻 All of my projects are available at [[https://devsourabh.vercel.app](https://devsourabh.vercel.app/)]
 
 - 💬 Ask me about **React.js Next.js Javascript Jquery Django & Python**
 
