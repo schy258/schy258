@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React.js Next.js Javascript Jquery Django & Python**
 
-- 📫 How to reach me **[https://iam-sourabh.vercel.app/](https://devsourabh.vercel.app/)**
+- 📫 How to reach me **[https://devsourabh.vercel.app](https://devsourabh.vercel.app/)**
 
 - 📄 Know about my experiences [Click here](https://devsourabh.vercel.app/)
 
